@@ -28,7 +28,7 @@ scripts in `analysis/`.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/epl-betting-calibration.git
+git clone https://github.com/<Agrim-sethi>/epl-betting-calibration.git
 cd epl-betting-calibration
 
 python -m venv .venv
